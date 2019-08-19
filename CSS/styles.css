@@ -1,0 +1,29 @@
+.top_container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #ecfcff;
+}
+
+ .c1 {
+  position: absolute;
+  right: 600px;
+  top: 60px;
+}
+
+.c2 {
+  position: absolute;
+  left: 600px;
+  bottom: 300px;
+}
+
+
+h1 {
+  width: 10%;
+  margin: 0 auto 0 auto;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+}
