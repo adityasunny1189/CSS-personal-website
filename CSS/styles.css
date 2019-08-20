@@ -1,7 +1,7 @@
 .top_container {
   position: relative;
   padding-top: 100px;
-  background-color: #ecfcff;
+  background-color: #131418;
 }
 
  .c1 {
@@ -13,17 +13,28 @@
 .c2 {
   position: absolute;
   left: 600px;
-  bottom: 300px;
+  bottom: 600px;
 }
 
+#Adi{
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+}
+
+.ti {
+  color: #9cf196;
+  font-family: 'Satisfy', cursive;
+}
 
 h1 {
+  color: #9cf196;
   width: 10%;
   margin: 0 auto 0 auto;
+  font-family: 'Acme', sans-serif;
 }
 
 body {
   margin: 0;
   text-align: center;
-  font-family: 'Permanent Marker', cursive;
 }
