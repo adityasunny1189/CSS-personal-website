@@ -4,6 +4,29 @@
   background-color: #131418;
 }
 
+.bottom-container {
+  height: 200px;
+  background-color: #252525;
+}
+
+.copywright {
+  color:#9cf196;
+}
+
+.My-skills {
+  font-size: 3.2rem;
+  color: #1fab89;
+}
+
+.get-in-touch {
+  font-size: 2.5rem;
+  color: #1fab89;
+}
+
+.contact-me {
+  line-height: 2;
+}
+
 .c1 {
   position: absolute;
   right: 600px;
@@ -21,10 +44,6 @@
   width: 96px;
 }
 
-.skl-big {
-  height: 400px;
-  width: 400px;
-}
 
 #Adi {
   height: 300px;
@@ -32,11 +51,40 @@
   border-radius: 100%;
 }
 
+#bio {
+  line-height: 2;
+}
+
+#p1 {
+  float: left;
+  margin-right: 30px;
+}
+
+#p2 {
+  float: right;
+  margin-left: 30px;
+}
+
 .ti {
   color: #9cf196;
   font-family: 'Satisfy', cursive;
   font-size: 2.5rem;
   font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skl-big {
+  width: 25%;
+}
+
+.down_para {
+  padding-bottom: 30px;
 }
 
 h1 {
@@ -62,4 +110,12 @@ a {
 body {
   margin: 0;
   text-align: center;
+}
+
+hr{
+  background-color: white;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
 }
