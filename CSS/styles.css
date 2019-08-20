@@ -16,6 +16,16 @@
   bottom: 600px;
 }
 
+.pro-big {
+  height:96px;
+  width: 96px;
+}
+
+.skl-big {
+  height: 400px;
+  width: 400px;
+}
+
 #Adi{
   height: 300px;
   width: 300px;
