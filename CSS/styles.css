@@ -1,3 +1,7 @@
+.bg-dark {
+  background-color: #131418!important;
+}
+
 .top_container {
   position: relative;
   padding-top: 100px;
@@ -14,9 +18,15 @@
   margin: 100px 0;
 }
 
+.tag-img {
+  height: 65px;
+  width: 65px;
+}
+
 .copywright {
   color:#f6f6f6;
   padding-top: 80px;
+  margin: 0;
 }
 
 .My-skills {
